@@ -1,1 +1,3 @@
-# Tableau_Tutorial_Bar_Charts
+# Bar Charts Galore: A Tutorial on How to Create Variations on the Classic Bar Chart in Tableau
+
+This tutorial walks through the process of creating different types of bar charts in Tableau. We’ll start with the classic bar chart, and then proceed to explore grouped bar charts, stacked bar charts, diverging bar charts, and more. Along the way, we’ll also explore some of Tableau’s core functionality and how we can use it to help us create effective plots. We’ll cover how to filter our data, create calculated fields, manipulate and format axis labels, and utilize various functions in the Marks card, among other topics.
