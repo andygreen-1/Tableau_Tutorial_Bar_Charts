@@ -7,4 +7,4 @@ You can find a brief summary of the files available in this repository below:
 * Tableau_Tutorial_Bar_Charts.docx: Microsoft Word file containing the tutorial instructions
 * Tableau_Tutorial_Bar_Charts.twb: Tableau Desktop workbook containing some of the completed plots from the tutorial
 * Education_2018.csv: Data on educational attainment by state, which I use as part of the tutorial
-    * Source: [Census Bureau Current Population Survey](https://www.census.gov/cps/data/cpstablecreator.html)
+    * Source: [Census Bureau Current Population Survey (2018)](https://www.census.gov/cps/data/cpstablecreator.html)
